@@ -1,7 +1,6 @@
 # Canvas scraper
-Forked from [Koenvh1](https://gist.github.com/Koenvh1/6386f8703766c432eb4dfa19acdb0244)
 
-# Please double-check the data
+## Please double-check the data
 
 Two reasons:
 
@@ -15,7 +14,7 @@ Please make sure you can view all resources without authentication before
 considering the export done
 .
 
-# Docker
+## Docker
 A Docker image is provided for convenience. You can configure it to write to a
 data directory of your choice. To make a data directory named `data` and bind
 mount it to the Docker container, perform the following commands:
